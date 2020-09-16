@@ -1,0 +1,26 @@
+{
+  "glossary": {
+    "title": "Python in Action",
+    "GlossDiv": {
+      "title": "S",
+      "GlossList": {
+        "GlossEntry": {
+          "ID": 23,
+          "CurrentEdition": true,
+          "SortAs": "Python",
+          "GlossTerm": "Standard Generalized Markup Language",
+          "Acronym": "Python",
+          "Abbrev": "ISO 8879:1234",
+          "GlossDef": {
+            "para": "A book on Python programming language.",
+            "GlossSeeAlso": [
+              "Python",
+              "Python 3.7"
+            ]
+          },
+          "GlossSee": "markup"
+        }
+      }
+    }
+  }
+}

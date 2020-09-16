@@ -1,0 +1,25 @@
+{
+  "glossary": {
+    "title": "Java in Action",
+    "GlossDiv": {
+      "title": "S",
+      "GlossList": {
+        "GlossEntry": {
+          "ID": "Java",
+          "SortAs": "Java",
+          "GlossTerm": "Standard Generalized Markup Language",
+          "Acronym": "Java",
+          "Abbrev": "ISO 8879:1986",
+          "GlossDef": {
+            "para": "A book on Java programming language.",
+            "GlossSeeAlso": [
+              "Java",
+              "Java Standard Edition"
+            ]
+          },
+          "GlossSee": "markup"
+        }
+      }
+    }
+  }
+}
